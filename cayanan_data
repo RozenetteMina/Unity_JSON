@@ -1,0 +1,14 @@
+{
+  "students": [
+    {
+      "name": "Roanne Zoe Cayanan",
+      "age": 21,
+      "favorite quote": "This land is made of Love and Peace!"
+    },
+     {
+      "class section": "BSEMC3",
+	  "Section code": "T90",
+	  "Busku Email": "1901101862@student.buksu.edu.ph"
+    }
+    ]
+}
