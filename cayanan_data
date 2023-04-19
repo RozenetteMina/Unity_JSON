@@ -2,7 +2,7 @@
   "students": [
     {
       "name": "Roanne Zoe Cayanan",
-      "age": 21,
+      "age": "21",
       "favorite quote": "This land is made of Love and Peace!"
     },
      {
