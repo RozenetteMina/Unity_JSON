@@ -4,11 +4,13 @@
       "name": "Roanne Zoe Cayanan",
       "age": 21,
       "favorite_quote": "This land is made of Love and Peace!"
-	},
-	{
+	}
+    ],
+  "information":[
+  	{
 	  "class_section": "BSEMC3",
 	  "Section_code": "T90",
 	  "Busku_Email": "1901101862@student.buksu.edu.ph"
     }
-    ]
+  	]
 }
